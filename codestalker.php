@@ -460,4 +460,4 @@ if (php_sapi_name() == 'cli') {
     $game->run();
 } else {
     die("Запускай только в терминале! php codestalker_fixed.php\n");
-}?>
+}?> 
