@@ -1,4 +1,4 @@
-# Миссии CodeStalker
+# Миссии CodeStalker.
 
 ## 📖 Общий сюжет
 
